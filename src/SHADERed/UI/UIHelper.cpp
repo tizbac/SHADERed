@@ -59,6 +59,7 @@ namespace ed {
 		}
 
 		window->DrawList->PathStroke(color, false, thickness);
+		return true;
 	}
 	int UIHelper::MessageBox_YesNoCancel(void* window, const std::string& msg)
 	{
