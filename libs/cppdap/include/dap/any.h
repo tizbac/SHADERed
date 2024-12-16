@@ -16,7 +16,7 @@
 #define dap_any_h
 
 #include "typeinfo.h"
-
+#include <cstdint>
 #include <assert.h>
 
 namespace dap {

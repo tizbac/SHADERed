@@ -2,7 +2,7 @@
 #include <misc/miniaudio.h>
 #include <string>
 #include <string.h>
-
+#include <cstdint>
 namespace ed {
 	namespace eng {
 		class AudioPlayer {
